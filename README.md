@@ -13,6 +13,7 @@ Controls: Classic Controls + Loot:Left
 Interface: Colourise Loot Value: None (this is for pyautogui find correct image inside bps)
 HUD: Show Status Bars (this is way for pyautogui find correct location of life/mana when change position of life widget)
 Battle List: I set battle list to get near creature first to attack.
+Minimap: I use the first waypoint mark for bot find my waypoints.
 
 How to use this?
 Install python 3.7 in your computer and set python in pc path
