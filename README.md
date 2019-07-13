@@ -7,8 +7,8 @@ this is my contribuition for Tibia.
 Thanks!
 
 
-This bot is made for my resolution(1360x768) but some functions it ill work on any resolution (walk and loot)
-In my client the configuration is:  
+## Configuration
+
 -Controls: Classic Controls + Loot:Left
 -Interface: Colourise Loot Value: None (this is for pyautogui find correct image inside bps)
 -HUD: Show Status Bars (this is way for pyautogui find correct location of life/mana when change position of life widget)
